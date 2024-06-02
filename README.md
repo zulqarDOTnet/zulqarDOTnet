@@ -6,7 +6,7 @@
 
 👨‍💻 Portfolio is available at [https://www.fiverr.com/users/zulqar/portfolio?origin=seller_page](https://www.fiverr.com/users/zulqar/portfolio?origin=seller_page)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Hire Me, I'm GOOD:</h3>
 <p align="left">📫 <b>fiverr.com/zulqar</b></p>
 
 <h3 align="left">Languages and Tools:</h3>
