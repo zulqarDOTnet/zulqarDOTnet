@@ -4,7 +4,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zulqardotnet&" alt="zulqardotnet" /></p>
 
-- 👨‍💻 My Portfolio is available at [https://www.fiverr.com/users/zulqar/portfolio?origin=seller_page](https://www.fiverr.com/users/zulqar/portfolio?origin=seller_page)
+👨‍💻 Portfolio is available at [https://www.fiverr.com/users/zulqar/portfolio?origin=seller_page](https://www.fiverr.com/users/zulqar/portfolio?origin=seller_page)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">📫 <b>fiverr.com/zulqar</b></p>
